@@ -1,6 +1,6 @@
 # Hi, I'm Isaque 👋
 
-Software Developer focused on building impactful web applications.
+Software Developer focused on building impactful applications.
 
 ## 🧠 About me
 - 5+ years of experience with web development
