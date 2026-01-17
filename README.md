@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Isaque 👋
 
-<!--
-**IsaqueAlvess/IsaqueAlvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building impactful web applications.
 
-Here are some ideas to get you started:
+## 🧠 About me
+- 5+ years of experience with web development
+- Strong background in Java, Spring Boot and Oracle PL/SQL
+- Frontend experience with Angular and React
+- Currently transitioning to international opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Backend:** Java, Spring Boot, REST APIs  
+**Frontend:** Angular, React, TypeScript  
+**Database:** Oracle, PostgreSQL  
+**DevOps:** Git, CI/CD, Jenkins  
+**Others:** Clean Code, SOLID, Agile, Lean
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/isaquealvess/
+- Email: ysak.alves@outlook.com
